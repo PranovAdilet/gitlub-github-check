@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Something = () => {
+const Master = () => {
     return (
         <div>
-            sd
+            sdds
         </div>
     );
 };
 
-export default Something;
+export default Master;
